@@ -37,7 +37,7 @@
 #include <unistd.h>
 #include <sys/syscall.h>
 #include <linux/random.h>
-#include <sys/random.h>
+//#include <sys/random.h>
 #include <errno.h>
 #include <linux/errno.h>
 #include <stdint.h>
